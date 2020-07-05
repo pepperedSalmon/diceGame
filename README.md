@@ -1,2 +1,2 @@
 # diceGame
-Command Line Dice game
+Command line dice game
